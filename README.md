@@ -42,3 +42,5 @@ Deliverables
 3. Business interpretation document summarizing actionable recommendations for all market participants.
 
 Dataset: https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data
+
+Tableau Dashboard: https://public.tableau.com/views/HousePricePredictionAnalysis/HousePricePredictionAnalysis-Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
